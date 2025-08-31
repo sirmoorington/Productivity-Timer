@@ -1,4 +1,4 @@
-# ⏱️ Productivity Timer
+# Productivity Timer
 
 A simple app that tracks your productive work sessions and rewards you with free time.  
 
@@ -23,3 +23,4 @@ There is also a **Free Time Mode**:
 
 ## Preview
 ---
+![Main Page](/menu.png)
